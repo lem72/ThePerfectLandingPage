@@ -1,0 +1,19 @@
+.buffer {
+	margin-top:2%;
+}
+
+.explanation_text {
+	font-size: 1.4em;
+	text-align: justify;
+	text-justify: inter-word;
+}
+
+.testimonial {
+	font-size: 2em;
+	font-weight:bold;
+}
+
+.closingstatement {
+	font-size: 2em;
+	font-weight:bold;
+}
